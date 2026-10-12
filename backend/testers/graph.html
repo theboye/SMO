@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Server Capacity Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { background-color: #1e1e2f; color: white; font-family: sans-serif; padding: 2rem; }
+        .chart-container { width: 900px; max-width: 100%; margin: 0 auto; background: #27293d; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
+        h2 { text-align: center; color: #e1e1e1; margin-bottom: 5px; }
+        p { text-align: center; color: #9a9a9a; font-size: 0.9rem; margin-top: 0; }
+    </style>
+</head>
+<body>
+
+    <div class="chart-container">
+        <h2>System Capacity & Bottleneck Analysis</h2>
+        <p>Requests Per Second (RPS) vs. Latency (p95)</p>
+        <canvas id="capacityChart"></canvas>
+    </div>
+
+    <script>
+        // Fetch the real data your autocannon script saved
+        fetch('report-data.json')
+            .then(response => response.json())
+            .then(data => {
+                const labels = data.map(d => d.connections + ' Conn');
+                const rpsData = data.map(d => d.rps);
+                const latencyData = data.map(d => d.latency);
+
+                const ctx = document.getElementById('capacityChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [
+                            {
+                                label: 'Throughput (RPS)',
+                                data: rpsData,
+                                borderColor: '#00f2fe',
+                                backgroundColor: 'rgba(0, 242, 254, 0.1)',
+                                borderWidth: 3,
+                                yAxisID: 'y',
+                                tension: 0.3,
+                                fill: true
+                            },
+                            {
+                                label: 'Latency p95 (ms)',
+                                data: latencyData,
+                                borderColor: '#fd5d93',
+                                backgroundColor: 'rgba(253, 93, 147, 0.1)',
+                                borderWidth: 3,
+                                yAxisID: 'y1',
+                                tension: 0.3
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        interaction: { mode: 'index', intersect: false },
+                        plugins: {
+                            legend: { labels: { color: '#fff', font: { size: 14 } } }
+                        },
+                        scales: {
+                            x: { 
+                                grid: { color: '#3f3f5a' }, 
+                                ticks: { color: '#9a9a9a' } 
+                            },
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                title: { display: true, text: 'RPS (Higher is better)', color: '#00f2fe' },
+                                grid: { color: '#3f3f5a' },
+                                ticks: { color: '#00f2fe' }
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                title: { display: true, text: 'Latency ms (Lower is better)', color: '#fd5d93' },
+                                grid: { drawOnChartArea: false }, // Prevent gridline overlap
+                                ticks: { color: '#fd5d93' }
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(err => console.error('Run the test first to generate report-data.json!', err));
+    </script>
+</body>
+</html>

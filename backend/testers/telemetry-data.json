@@ -1,0 +1,2954 @@
+[
+  {
+    "time": "23:08:59",
+    "heapMB": "5.02",
+    "loopDelay": "15.69",
+    "cpuTotal": "0.06"
+  },
+  {
+    "time": "23:09:00",
+    "heapMB": "5.03",
+    "loopDelay": "15.79",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:01",
+    "heapMB": "5.03",
+    "loopDelay": "15.72",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:02",
+    "heapMB": "5.04",
+    "loopDelay": "15.66",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:03",
+    "heapMB": "5.04",
+    "loopDelay": "15.66",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:04",
+    "heapMB": "5.05",
+    "loopDelay": "15.67",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:05",
+    "heapMB": "5.06",
+    "loopDelay": "15.67",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:06",
+    "heapMB": "5.07",
+    "loopDelay": "15.66",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:07",
+    "heapMB": "5.09",
+    "loopDelay": "15.66",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:08",
+    "heapMB": "5.11",
+    "loopDelay": "15.65",
+    "cpuTotal": "0.09"
+  },
+  {
+    "time": "23:09:09",
+    "heapMB": "5.11",
+    "loopDelay": "15.63",
+    "cpuTotal": "0.12"
+  },
+  {
+    "time": "23:09:10",
+    "heapMB": "5.12",
+    "loopDelay": "15.63",
+    "cpuTotal": "0.12"
+  },
+  {
+    "time": "23:09:11",
+    "heapMB": "5.13",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.12"
+  },
+  {
+    "time": "23:09:12",
+    "heapMB": "5.13",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:13",
+    "heapMB": "5.14",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:14",
+    "heapMB": "5.14",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:15",
+    "heapMB": "5.16",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:16",
+    "heapMB": "5.16",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:17",
+    "heapMB": "5.17",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:18",
+    "heapMB": "5.18",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:19",
+    "heapMB": "5.19",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.14"
+  },
+  {
+    "time": "23:09:20",
+    "heapMB": "5.19",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:21",
+    "heapMB": "5.20",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:22",
+    "heapMB": "5.21",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:23",
+    "heapMB": "5.22",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:24",
+    "heapMB": "5.22",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:25",
+    "heapMB": "5.23",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:27",
+    "heapMB": "4.77",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:28",
+    "heapMB": "4.78",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:29",
+    "heapMB": "4.78",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.15"
+  },
+  {
+    "time": "23:09:30",
+    "heapMB": "4.79",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:31",
+    "heapMB": "4.80",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:32",
+    "heapMB": "4.81",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:33",
+    "heapMB": "4.82",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:34",
+    "heapMB": "4.82",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:35",
+    "heapMB": "4.83",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:36",
+    "heapMB": "4.84",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:37",
+    "heapMB": "4.85",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:38",
+    "heapMB": "4.86",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:39",
+    "heapMB": "4.87",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:40",
+    "heapMB": "4.88",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:41",
+    "heapMB": "4.89",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:42",
+    "heapMB": "4.89",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:43",
+    "heapMB": "4.90",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:44",
+    "heapMB": "4.91",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:45",
+    "heapMB": "4.92",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:46",
+    "heapMB": "4.93",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:47",
+    "heapMB": "4.94",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.17"
+  },
+  {
+    "time": "23:09:48",
+    "heapMB": "4.95",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.20"
+  },
+  {
+    "time": "23:09:49",
+    "heapMB": "4.96",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.20"
+  },
+  {
+    "time": "23:09:50",
+    "heapMB": "4.97",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.22"
+  },
+  {
+    "time": "23:09:51",
+    "heapMB": "4.98",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.23"
+  },
+  {
+    "time": "23:09:52",
+    "heapMB": "4.99",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.23"
+  },
+  {
+    "time": "23:09:53",
+    "heapMB": "5.00",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.23"
+  },
+  {
+    "time": "23:09:54",
+    "heapMB": "5.01",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.23"
+  },
+  {
+    "time": "23:09:55",
+    "heapMB": "5.02",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.23"
+  },
+  {
+    "time": "23:09:56",
+    "heapMB": "5.03",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:09:57",
+    "heapMB": "5.04",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:09:58",
+    "heapMB": "5.05",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:09:59",
+    "heapMB": "5.06",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:00",
+    "heapMB": "5.07",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:01",
+    "heapMB": "5.08",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:02",
+    "heapMB": "5.10",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:03",
+    "heapMB": "5.11",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:04",
+    "heapMB": "5.12",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:05",
+    "heapMB": "5.13",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:06",
+    "heapMB": "5.14",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.25"
+  },
+  {
+    "time": "23:10:07",
+    "heapMB": "5.15",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.27"
+  },
+  {
+    "time": "23:10:08",
+    "heapMB": "5.16",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:09",
+    "heapMB": "5.17",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:10",
+    "heapMB": "5.19",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:11",
+    "heapMB": "5.20",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:12",
+    "heapMB": "5.22",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:13",
+    "heapMB": "5.23",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:14",
+    "heapMB": "4.77",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:15",
+    "heapMB": "4.79",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:16",
+    "heapMB": "4.80",
+    "loopDelay": "15.57",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:17",
+    "heapMB": "4.81",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:18",
+    "heapMB": "4.82",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.28"
+  },
+  {
+    "time": "23:10:19",
+    "heapMB": "4.84",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:20",
+    "heapMB": "4.85",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:21",
+    "heapMB": "4.86",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:22",
+    "heapMB": "4.87",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:23",
+    "heapMB": "4.89",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:24",
+    "heapMB": "4.90",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:25",
+    "heapMB": "4.91",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.30"
+  },
+  {
+    "time": "23:10:26",
+    "heapMB": "4.93",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:27",
+    "heapMB": "4.94",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:28",
+    "heapMB": "4.95",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:29",
+    "heapMB": "4.97",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:30",
+    "heapMB": "4.98",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:31",
+    "heapMB": "5.00",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.33"
+  },
+  {
+    "time": "23:10:32",
+    "heapMB": "5.01",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:33",
+    "heapMB": "5.02",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:34",
+    "heapMB": "5.04",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:35",
+    "heapMB": "5.05",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:36",
+    "heapMB": "5.07",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:37",
+    "heapMB": "5.08",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:38",
+    "heapMB": "5.10",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.34"
+  },
+  {
+    "time": "23:10:39",
+    "heapMB": "5.11",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.36"
+  },
+  {
+    "time": "23:10:40",
+    "heapMB": "5.12",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:41",
+    "heapMB": "5.14",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:42",
+    "heapMB": "5.15",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:43",
+    "heapMB": "5.17",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:44",
+    "heapMB": "5.18",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:45",
+    "heapMB": "5.20",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:46",
+    "heapMB": "5.22",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:47",
+    "heapMB": "5.23",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:48",
+    "heapMB": "5.25",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:49",
+    "heapMB": "5.26",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:50",
+    "heapMB": "5.28",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:51",
+    "heapMB": "5.29",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:52",
+    "heapMB": "5.31",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:53",
+    "heapMB": "5.33",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:54",
+    "heapMB": "5.34",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.37"
+  },
+  {
+    "time": "23:10:55",
+    "heapMB": "5.36",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.39"
+  },
+  {
+    "time": "23:10:56",
+    "heapMB": "5.37",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.39"
+  },
+  {
+    "time": "23:10:57",
+    "heapMB": "5.39",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.39"
+  },
+  {
+    "time": "23:10:58",
+    "heapMB": "5.41",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.39"
+  },
+  {
+    "time": "23:10:59",
+    "heapMB": "5.42",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.39"
+  },
+  {
+    "time": "23:11:00",
+    "heapMB": "5.44",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.41"
+  },
+  {
+    "time": "23:11:01",
+    "heapMB": "5.46",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.41"
+  },
+  {
+    "time": "23:11:02",
+    "heapMB": "5.47",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.41"
+  },
+  {
+    "time": "23:11:03",
+    "heapMB": "5.50",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.41"
+  },
+  {
+    "time": "23:11:04",
+    "heapMB": "5.51",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.41"
+  },
+  {
+    "time": "23:11:05",
+    "heapMB": "5.53",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.42"
+  },
+  {
+    "time": "23:11:06",
+    "heapMB": "4.75",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.42"
+  },
+  {
+    "time": "23:11:07",
+    "heapMB": "4.77",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.42"
+  },
+  {
+    "time": "23:11:08",
+    "heapMB": "4.79",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.44"
+  },
+  {
+    "time": "23:11:09",
+    "heapMB": "4.80",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.44"
+  },
+  {
+    "time": "23:11:10",
+    "heapMB": "4.82",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:11",
+    "heapMB": "4.84",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:12",
+    "heapMB": "4.86",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:13",
+    "heapMB": "4.87",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:14",
+    "heapMB": "4.89",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:15",
+    "heapMB": "4.91",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.45"
+  },
+  {
+    "time": "23:11:16",
+    "heapMB": "4.93",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.47"
+  },
+  {
+    "time": "23:11:17",
+    "heapMB": "4.95",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.47"
+  },
+  {
+    "time": "23:11:19",
+    "heapMB": "4.97",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.47"
+  },
+  {
+    "time": "23:11:20",
+    "heapMB": "4.98",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.47"
+  },
+  {
+    "time": "23:11:21",
+    "heapMB": "5.01",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.48"
+  },
+  {
+    "time": "23:11:22",
+    "heapMB": "5.03",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.48"
+  },
+  {
+    "time": "23:11:23",
+    "heapMB": "5.05",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.48"
+  },
+  {
+    "time": "23:11:24",
+    "heapMB": "5.06",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.48"
+  },
+  {
+    "time": "23:11:25",
+    "heapMB": "5.08",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.48"
+  },
+  {
+    "time": "23:11:26",
+    "heapMB": "5.10",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:27",
+    "heapMB": "5.12",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:28",
+    "heapMB": "5.14",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:29",
+    "heapMB": "5.16",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:30",
+    "heapMB": "5.18",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:31",
+    "heapMB": "5.20",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:32",
+    "heapMB": "5.22",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:33",
+    "heapMB": "5.24",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.50"
+  },
+  {
+    "time": "23:11:34",
+    "heapMB": "5.26",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:35",
+    "heapMB": "5.28",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:36",
+    "heapMB": "5.30",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:37",
+    "heapMB": "5.32",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:38",
+    "heapMB": "5.34",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:39",
+    "heapMB": "5.36",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:40",
+    "heapMB": "5.38",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.52"
+  },
+  {
+    "time": "23:11:41",
+    "heapMB": "5.40",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:42",
+    "heapMB": "5.42",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:43",
+    "heapMB": "5.44",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:44",
+    "heapMB": "5.47",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:45",
+    "heapMB": "5.49",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:46",
+    "heapMB": "5.51",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:47",
+    "heapMB": "5.53",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.55"
+  },
+  {
+    "time": "23:11:48",
+    "heapMB": "4.76",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.59"
+  },
+  {
+    "time": "23:11:49",
+    "heapMB": "4.78",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.59"
+  },
+  {
+    "time": "23:11:50",
+    "heapMB": "4.80",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.61"
+  },
+  {
+    "time": "23:11:51",
+    "heapMB": "4.82",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.61"
+  },
+  {
+    "time": "23:11:52",
+    "heapMB": "4.84",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:53",
+    "heapMB": "4.87",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:54",
+    "heapMB": "4.89",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:55",
+    "heapMB": "4.91",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:56",
+    "heapMB": "4.93",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:57",
+    "heapMB": "4.95",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:58",
+    "heapMB": "4.98",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:11:59",
+    "heapMB": "5.00",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:00",
+    "heapMB": "5.02",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:01",
+    "heapMB": "5.04",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:02",
+    "heapMB": "5.07",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:03",
+    "heapMB": "5.09",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:04",
+    "heapMB": "5.11",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:05",
+    "heapMB": "5.14",
+    "loopDelay": "15.58",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:06",
+    "heapMB": "5.16",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:07",
+    "heapMB": "5.18",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.62"
+  },
+  {
+    "time": "23:12:08",
+    "heapMB": "5.21",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.64"
+  },
+  {
+    "time": "23:12:09",
+    "heapMB": "5.23",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.64"
+  },
+  {
+    "time": "23:12:10",
+    "heapMB": "5.27",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.64"
+  },
+  {
+    "time": "23:12:11",
+    "heapMB": "5.29",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.64"
+  },
+  {
+    "time": "23:12:12",
+    "heapMB": "5.32",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.64"
+  },
+  {
+    "time": "23:12:13",
+    "heapMB": "5.34",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:14",
+    "heapMB": "5.36",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:15",
+    "heapMB": "5.39",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:16",
+    "heapMB": "5.41",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:17",
+    "heapMB": "5.44",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:18",
+    "heapMB": "5.46",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:19",
+    "heapMB": "5.49",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:20",
+    "heapMB": "5.52",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:21",
+    "heapMB": "5.54",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:22",
+    "heapMB": "5.57",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:23",
+    "heapMB": "4.76",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:24",
+    "heapMB": "4.79",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:25",
+    "heapMB": "4.81",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:26",
+    "heapMB": "4.84",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:27",
+    "heapMB": "4.86",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:28",
+    "heapMB": "4.89",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:29",
+    "heapMB": "4.91",
+    "loopDelay": "15.59",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:30",
+    "heapMB": "4.94",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:31",
+    "heapMB": "4.97",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:32",
+    "heapMB": "4.99",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.66"
+  },
+  {
+    "time": "23:12:33",
+    "heapMB": "5.03",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.67"
+  },
+  {
+    "time": "23:12:34",
+    "heapMB": "5.06",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:35",
+    "heapMB": "5.08",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:36",
+    "heapMB": "5.11",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:37",
+    "heapMB": "5.13",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:38",
+    "heapMB": "5.16",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:39",
+    "heapMB": "5.19",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:40",
+    "heapMB": "5.21",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:41",
+    "heapMB": "5.24",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:42",
+    "heapMB": "5.28",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:43",
+    "heapMB": "5.31",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:44",
+    "heapMB": "5.33",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:45",
+    "heapMB": "5.36",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:46",
+    "heapMB": "5.39",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.69"
+  },
+  {
+    "time": "23:12:47",
+    "heapMB": "5.42",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.70"
+  },
+  {
+    "time": "23:12:48",
+    "heapMB": "5.44",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.72"
+  },
+  {
+    "time": "23:12:49",
+    "heapMB": "5.47",
+    "loopDelay": "15.60",
+    "cpuTotal": "0.72"
+  },
+  {
+    "time": "23:12:50",
+    "heapMB": "5.50",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.73"
+  },
+  {
+    "time": "23:12:51",
+    "heapMB": "5.53",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.75"
+  },
+  {
+    "time": "23:12:52",
+    "heapMB": "5.56",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.75"
+  },
+  {
+    "time": "23:12:53",
+    "heapMB": "4.80",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.78"
+  },
+  {
+    "time": "23:12:54",
+    "heapMB": "4.83",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.80"
+  },
+  {
+    "time": "23:12:55",
+    "heapMB": "4.86",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.80"
+  },
+  {
+    "time": "23:12:56",
+    "heapMB": "4.88",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.80"
+  },
+  {
+    "time": "23:12:57",
+    "heapMB": "4.91",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:12:58",
+    "heapMB": "4.94",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:12:59",
+    "heapMB": "4.97",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:00",
+    "heapMB": "5.00",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:01",
+    "heapMB": "5.04",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:02",
+    "heapMB": "5.07",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:03",
+    "heapMB": "5.09",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:04",
+    "heapMB": "5.12",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:05",
+    "heapMB": "5.15",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:06",
+    "heapMB": "5.18",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:07",
+    "heapMB": "5.21",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:08",
+    "heapMB": "5.24",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:09",
+    "heapMB": "5.29",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:10",
+    "heapMB": "5.32",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:11",
+    "heapMB": "5.35",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:12",
+    "heapMB": "5.38",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:13",
+    "heapMB": "5.41",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:14",
+    "heapMB": "5.44",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:15",
+    "heapMB": "5.47",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:16",
+    "heapMB": "5.50",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:17",
+    "heapMB": "5.54",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:18",
+    "heapMB": "5.57",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:19",
+    "heapMB": "5.60",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:20",
+    "heapMB": "4.81",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:21",
+    "heapMB": "4.84",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:22",
+    "heapMB": "4.87",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.81"
+  },
+  {
+    "time": "23:13:23",
+    "heapMB": "4.90",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.87"
+  },
+  {
+    "time": "23:13:24",
+    "heapMB": "4.93",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.89"
+  },
+  {
+    "time": "23:13:25",
+    "heapMB": "4.96",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.89"
+  },
+  {
+    "time": "23:13:26",
+    "heapMB": "4.99",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.89"
+  },
+  {
+    "time": "23:13:27",
+    "heapMB": "5.02",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:28",
+    "heapMB": "5.05",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:29",
+    "heapMB": "5.08",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:31",
+    "heapMB": "5.12",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:32",
+    "heapMB": "5.15",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:33",
+    "heapMB": "5.18",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:34",
+    "heapMB": "5.21",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.91"
+  },
+  {
+    "time": "23:13:35",
+    "heapMB": "5.24",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.92"
+  },
+  {
+    "time": "23:13:36",
+    "heapMB": "5.30",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.92"
+  },
+  {
+    "time": "23:13:37",
+    "heapMB": "5.33",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.92"
+  },
+  {
+    "time": "23:13:38",
+    "heapMB": "5.37",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.94"
+  },
+  {
+    "time": "23:13:39",
+    "heapMB": "5.40",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.94"
+  },
+  {
+    "time": "23:13:40",
+    "heapMB": "5.43",
+    "loopDelay": "15.62",
+    "cpuTotal": "0.94"
+  },
+  {
+    "time": "23:13:41",
+    "heapMB": "5.46",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.97"
+  },
+  {
+    "time": "23:13:42",
+    "heapMB": "5.50",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.97"
+  },
+  {
+    "time": "23:13:43",
+    "heapMB": "5.55",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.98"
+  },
+  {
+    "time": "23:13:44",
+    "heapMB": "5.59",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.98"
+  },
+  {
+    "time": "23:13:45",
+    "heapMB": "5.62",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.98"
+  },
+  {
+    "time": "23:13:46",
+    "heapMB": "4.78",
+    "loopDelay": "15.61",
+    "cpuTotal": "0.98"
+  },
+  {
+    "time": "23:13:47",
+    "heapMB": "4.82",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.00"
+  },
+  {
+    "time": "23:13:48",
+    "heapMB": "4.85",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.00"
+  },
+  {
+    "time": "23:13:49",
+    "heapMB": "4.88",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.00"
+  },
+  {
+    "time": "23:13:50",
+    "heapMB": "4.92",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.01"
+  },
+  {
+    "time": "23:13:51",
+    "heapMB": "4.95",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.01"
+  },
+  {
+    "time": "23:13:52",
+    "heapMB": "4.98",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:53",
+    "heapMB": "5.02",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:54",
+    "heapMB": "5.06",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:55",
+    "heapMB": "5.09",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:56",
+    "heapMB": "5.13",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:57",
+    "heapMB": "5.16",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:58",
+    "heapMB": "5.19",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.03"
+  },
+  {
+    "time": "23:13:59",
+    "heapMB": "5.23",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.05"
+  },
+  {
+    "time": "23:14:00",
+    "heapMB": "5.26",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.05"
+  },
+  {
+    "time": "23:14:01",
+    "heapMB": "5.31",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.08"
+  },
+  {
+    "time": "23:14:02",
+    "heapMB": "5.34",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:03",
+    "heapMB": "5.38",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:04",
+    "heapMB": "5.41",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:05",
+    "heapMB": "5.45",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:06",
+    "heapMB": "5.48",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:07",
+    "heapMB": "5.52",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:08",
+    "heapMB": "5.56",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:09",
+    "heapMB": "5.59",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.09"
+  },
+  {
+    "time": "23:14:10",
+    "heapMB": "4.79",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.11"
+  },
+  {
+    "time": "23:14:11",
+    "heapMB": "4.82",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.11"
+  },
+  {
+    "time": "23:14:12",
+    "heapMB": "4.86",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.11"
+  },
+  {
+    "time": "23:14:13",
+    "heapMB": "4.89",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.11"
+  },
+  {
+    "time": "23:14:14",
+    "heapMB": "4.93",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.11"
+  },
+  {
+    "time": "23:14:15",
+    "heapMB": "4.96",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.13"
+  },
+  {
+    "time": "23:14:16",
+    "heapMB": "5.00",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:17",
+    "heapMB": "5.06",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:18",
+    "heapMB": "5.10",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:19",
+    "heapMB": "5.14",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:20",
+    "heapMB": "5.17",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:21",
+    "heapMB": "5.21",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.14"
+  },
+  {
+    "time": "23:14:22",
+    "heapMB": "5.25",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.16"
+  },
+  {
+    "time": "23:14:23",
+    "heapMB": "5.28",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.16"
+  },
+  {
+    "time": "23:14:24",
+    "heapMB": "5.32",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.17"
+  },
+  {
+    "time": "23:14:25",
+    "heapMB": "5.36",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.17"
+  },
+  {
+    "time": "23:14:26",
+    "heapMB": "5.39",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:27",
+    "heapMB": "5.43",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:28",
+    "heapMB": "5.47",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:29",
+    "heapMB": "5.50",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:30",
+    "heapMB": "5.57",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:31",
+    "heapMB": "5.60",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.19"
+  },
+  {
+    "time": "23:14:32",
+    "heapMB": "4.79",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:33",
+    "heapMB": "4.83",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:34",
+    "heapMB": "4.86",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:35",
+    "heapMB": "4.90",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:36",
+    "heapMB": "4.94",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:37",
+    "heapMB": "4.98",
+    "loopDelay": "15.61",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:38",
+    "heapMB": "5.02",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:39",
+    "heapMB": "5.07",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.20"
+  },
+  {
+    "time": "23:14:40",
+    "heapMB": "5.11",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:41",
+    "heapMB": "5.15",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:42",
+    "heapMB": "5.19",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:43",
+    "heapMB": "5.23",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:44",
+    "heapMB": "5.27",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:45",
+    "heapMB": "5.32",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:46",
+    "heapMB": "5.36",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:47",
+    "heapMB": "5.40",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.22"
+  },
+  {
+    "time": "23:14:48",
+    "heapMB": "5.44",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:49",
+    "heapMB": "5.48",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:50",
+    "heapMB": "5.52",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:51",
+    "heapMB": "5.57",
+    "loopDelay": "15.62",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:52",
+    "heapMB": "5.61",
+    "loopDelay": "15.63",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:53",
+    "heapMB": "4.80",
+    "loopDelay": "15.63",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:54",
+    "heapMB": "4.84",
+    "loopDelay": "15.63",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:55",
+    "heapMB": "4.87",
+    "loopDelay": "15.63",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:56",
+    "heapMB": "4.91",
+    "loopDelay": "15.63",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:57",
+    "heapMB": "4.95",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:58",
+    "heapMB": "4.99",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:14:59",
+    "heapMB": "5.04",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:00",
+    "heapMB": "5.08",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:01",
+    "heapMB": "5.12",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:02",
+    "heapMB": "5.16",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:03",
+    "heapMB": "5.20",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:04",
+    "heapMB": "5.24",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:05",
+    "heapMB": "5.29",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.23"
+  },
+  {
+    "time": "23:15:06",
+    "heapMB": "5.33",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.25"
+  },
+  {
+    "time": "23:15:07",
+    "heapMB": "5.37",
+    "loopDelay": "15.64",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:08",
+    "heapMB": "5.41",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:09",
+    "heapMB": "5.45",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:10",
+    "heapMB": "5.49",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:11",
+    "heapMB": "5.53",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:12",
+    "heapMB": "5.58",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:13",
+    "heapMB": "4.83",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:14",
+    "heapMB": "4.88",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:15",
+    "heapMB": "4.92",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:16",
+    "heapMB": "4.96",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:17",
+    "heapMB": "5.00",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:18",
+    "heapMB": "5.04",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:19",
+    "heapMB": "5.09",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.28"
+  },
+  {
+    "time": "23:15:20",
+    "heapMB": "5.13",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:21",
+    "heapMB": "5.17",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:22",
+    "heapMB": "5.21",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:23",
+    "heapMB": "5.26",
+    "loopDelay": "15.65",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:25",
+    "heapMB": "5.33",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:26",
+    "heapMB": "5.38",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.30"
+  },
+  {
+    "time": "23:15:27",
+    "heapMB": "5.42",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.31"
+  },
+  {
+    "time": "23:15:28",
+    "heapMB": "5.46",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.31"
+  },
+  {
+    "time": "23:15:29",
+    "heapMB": "5.50",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.31"
+  },
+  {
+    "time": "23:15:30",
+    "heapMB": "5.58",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.31"
+  },
+  {
+    "time": "23:15:31",
+    "heapMB": "5.63",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.31"
+  },
+  {
+    "time": "23:15:32",
+    "heapMB": "4.81",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.36"
+  },
+  {
+    "time": "23:15:33",
+    "heapMB": "4.85",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:34",
+    "heapMB": "4.89",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:35",
+    "heapMB": "4.94",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:36",
+    "heapMB": "4.98",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:37",
+    "heapMB": "5.02",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:38",
+    "heapMB": "5.09",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.37"
+  },
+  {
+    "time": "23:15:39",
+    "heapMB": "5.14",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.39"
+  },
+  {
+    "time": "23:15:40",
+    "heapMB": "5.18",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.39"
+  },
+  {
+    "time": "23:15:41",
+    "heapMB": "5.22",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.39"
+  },
+  {
+    "time": "23:15:42",
+    "heapMB": "5.27",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.39"
+  },
+  {
+    "time": "23:15:43",
+    "heapMB": "5.34",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.39"
+  },
+  {
+    "time": "23:15:44",
+    "heapMB": "5.39",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.41"
+  },
+  {
+    "time": "23:15:45",
+    "heapMB": "5.43",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.41"
+  },
+  {
+    "time": "23:15:46",
+    "heapMB": "5.48",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.41"
+  },
+  {
+    "time": "23:15:47",
+    "heapMB": "5.52",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.41"
+  },
+  {
+    "time": "23:15:48",
+    "heapMB": "5.59",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.41"
+  },
+  {
+    "time": "23:15:49",
+    "heapMB": "5.64",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.42"
+  },
+  {
+    "time": "23:15:50",
+    "heapMB": "4.81",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.42"
+  },
+  {
+    "time": "23:15:51",
+    "heapMB": "4.85",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.44"
+  },
+  {
+    "time": "23:15:52",
+    "heapMB": "4.90",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:53",
+    "heapMB": "4.96",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:54",
+    "heapMB": "5.00",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:55",
+    "heapMB": "5.05",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:56",
+    "heapMB": "5.11",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:57",
+    "heapMB": "5.15",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.45"
+  },
+  {
+    "time": "23:15:58",
+    "heapMB": "5.20",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.47"
+  },
+  {
+    "time": "23:15:59",
+    "heapMB": "5.25",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.47"
+  },
+  {
+    "time": "23:16:00",
+    "heapMB": "5.29",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.48"
+  },
+  {
+    "time": "23:16:01",
+    "heapMB": "5.36",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:02",
+    "heapMB": "5.40",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:03",
+    "heapMB": "5.45",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:04",
+    "heapMB": "5.50",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:05",
+    "heapMB": "5.54",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:06",
+    "heapMB": "5.61",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:07",
+    "heapMB": "5.66",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:08",
+    "heapMB": "4.82",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:09",
+    "heapMB": "4.87",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:10",
+    "heapMB": "4.92",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:11",
+    "heapMB": "4.96",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.50"
+  },
+  {
+    "time": "23:16:12",
+    "heapMB": "5.01",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:13",
+    "heapMB": "5.06",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:14",
+    "heapMB": "5.11",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:15",
+    "heapMB": "5.16",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:16",
+    "heapMB": "5.21",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:17",
+    "heapMB": "5.26",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:18",
+    "heapMB": "5.30",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:19",
+    "heapMB": "5.36",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:20",
+    "heapMB": "5.41",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:21",
+    "heapMB": "5.46",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:22",
+    "heapMB": "5.51",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:23",
+    "heapMB": "5.56",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.51"
+  },
+  {
+    "time": "23:16:24",
+    "heapMB": "5.61",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.53"
+  },
+  {
+    "time": "23:16:25",
+    "heapMB": "4.86",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.53"
+  },
+  {
+    "time": "23:16:26",
+    "heapMB": "4.90",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.53"
+  },
+  {
+    "time": "23:16:27",
+    "heapMB": "4.95",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.53"
+  },
+  {
+    "time": "23:16:28",
+    "heapMB": "5.00",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.53"
+  },
+  {
+    "time": "23:16:29",
+    "heapMB": "5.05",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.55"
+  },
+  {
+    "time": "23:16:30",
+    "heapMB": "5.12",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.55"
+  },
+  {
+    "time": "23:16:31",
+    "heapMB": "5.17",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.56"
+  },
+  {
+    "time": "23:16:32",
+    "heapMB": "5.21",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.56"
+  },
+  {
+    "time": "23:16:33",
+    "heapMB": "5.26",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.56"
+  },
+  {
+    "time": "23:16:34",
+    "heapMB": "5.31",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.56"
+  },
+  {
+    "time": "23:16:35",
+    "heapMB": "5.37",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.58"
+  },
+  {
+    "time": "23:16:36",
+    "heapMB": "5.42",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.58"
+  },
+  {
+    "time": "23:16:37",
+    "heapMB": "5.47",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.59"
+  },
+  {
+    "time": "23:16:38",
+    "heapMB": "5.52",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.59"
+  },
+  {
+    "time": "23:16:39",
+    "heapMB": "5.57",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.59"
+  },
+  {
+    "time": "23:16:40",
+    "heapMB": "5.62",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.59"
+  },
+  {
+    "time": "23:16:41",
+    "heapMB": "4.83",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:42",
+    "heapMB": "4.89",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:43",
+    "heapMB": "4.94",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:44",
+    "heapMB": "4.99",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:45",
+    "heapMB": "5.04",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:46",
+    "heapMB": "5.13",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:47",
+    "heapMB": "5.18",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:48",
+    "heapMB": "5.23",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:49",
+    "heapMB": "5.28",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.61"
+  },
+  {
+    "time": "23:16:50",
+    "heapMB": "5.33",
+    "loopDelay": "15.67",
+    "cpuTotal": "1.62"
+  },
+  {
+    "time": "23:16:51",
+    "heapMB": "5.38",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.66"
+  },
+  {
+    "time": "23:16:52",
+    "heapMB": "5.43",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.66"
+  },
+  {
+    "time": "23:16:53",
+    "heapMB": "5.49",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.66"
+  },
+  {
+    "time": "23:16:54",
+    "heapMB": "5.54",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.66"
+  },
+  {
+    "time": "23:16:55",
+    "heapMB": "5.63",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:16:56",
+    "heapMB": "5.68",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:16:57",
+    "heapMB": "4.84",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:16:58",
+    "heapMB": "4.89",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:16:59",
+    "heapMB": "4.94",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:00",
+    "heapMB": "4.99",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:01",
+    "heapMB": "5.05",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:02",
+    "heapMB": "5.13",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:03",
+    "heapMB": "5.18",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:04",
+    "heapMB": "5.24",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:05",
+    "heapMB": "5.29",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.67"
+  },
+  {
+    "time": "23:17:06",
+    "heapMB": "5.38",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.69"
+  },
+  {
+    "time": "23:17:07",
+    "heapMB": "5.43",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.69"
+  },
+  {
+    "time": "23:17:08",
+    "heapMB": "5.49",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.69"
+  },
+  {
+    "time": "23:17:09",
+    "heapMB": "5.54",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  },
+  {
+    "time": "23:17:10",
+    "heapMB": "5.63",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  },
+  {
+    "time": "23:17:11",
+    "heapMB": "5.69",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  },
+  {
+    "time": "23:17:12",
+    "heapMB": "5.74",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  },
+  {
+    "time": "23:17:13",
+    "heapMB": "4.84",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  },
+  {
+    "time": "23:17:14",
+    "heapMB": "4.89",
+    "loopDelay": "15.66",
+    "cpuTotal": "1.70"
+  }
+]

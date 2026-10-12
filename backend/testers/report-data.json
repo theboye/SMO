@@ -1,0 +1,82 @@
+[
+  {
+    "connections": 25,
+    "rps": 1499.9,
+    "errors": 0
+  },
+  {
+    "connections": 50,
+    "rps": 1760.95,
+    "errors": 0
+  },
+  {
+    "connections": 75,
+    "rps": 1748.75,
+    "errors": 0
+  },
+  {
+    "connections": 100,
+    "rps": 1744.45,
+    "errors": 0
+  },
+  {
+    "connections": 125,
+    "rps": 1768.7,
+    "errors": 0
+  },
+  {
+    "connections": 150,
+    "rps": 1715.1,
+    "errors": 0
+  },
+  {
+    "connections": 175,
+    "rps": 1806.4,
+    "errors": 0
+  },
+  {
+    "connections": 200,
+    "rps": 1752.55,
+    "errors": 0
+  },
+  {
+    "connections": 225,
+    "rps": 1682.8,
+    "errors": 0
+  },
+  {
+    "connections": 250,
+    "rps": 1555.7,
+    "errors": 0
+  },
+  {
+    "connections": 275,
+    "rps": 1755.35,
+    "errors": 0
+  },
+  {
+    "connections": 300,
+    "rps": 1677.15,
+    "errors": 0
+  },
+  {
+    "connections": 325,
+    "rps": 1690,
+    "errors": 0
+  },
+  {
+    "connections": 350,
+    "rps": 1616.35,
+    "errors": 0
+  },
+  {
+    "connections": 375,
+    "rps": 1575.95,
+    "errors": 0
+  },
+  {
+    "connections": 400,
+    "rps": 1687.85,
+    "errors": 0
+  }
+]

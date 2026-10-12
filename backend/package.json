@@ -1,0 +1,26 @@
+{
+  "name": "shortqr-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.1.0",
+    "pg": "^8.20.0",
+    "qrcode": "^1.5.4",
+    "redis": "^4.7.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "artillery": "^2.0.30",
+    "autocannon": "^8.0.0",
+    "nodemon": "^3.1.14"
+  }
+}
