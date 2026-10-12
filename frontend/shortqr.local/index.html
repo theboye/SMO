@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern QR Code Generator</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js"></script>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header class="app-header">
+            <div class="header-content">
+                <h1 data-i18n="title">QR Code Generator</h1>
+                <select id="lang-switch" class="lang-select">
+                    <option value="en">English</option>
+                    <option value="ru">Русский</option>
+                </select>
+            </div>
+            <p data-i18n="subtitle">Create QR codes for websites, text, locations, and messages</p>
+        </header>
+
+        <main class="layout">
+            <section class="preview-panel" id="preview-section">
+                <div class="qr-card">
+                    <div id="qr-canvas">
+                        <div class="placeholder-text" id="qr-placeholder" data-i18n="qr_placeholder">
+                            Fill in the form to get started creating<br>your QR code
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="advanced-style-toolbar">
+                    <div class="toolbar-tabs">
+                        <button class="toolbar-tab active" data-target="pane-border" data-i18n="tab_border">Border</button>
+                        <button class="toolbar-tab" data-target="pane-center" data-i18n="tab_center">Center</button>
+                        <button class="toolbar-tab" data-target="pane-cells" data-i18n="tab_cells">Cells</button>
+                    </div>
+
+                    <div class="toolbar-panes">
+                        <div id="pane-border" class="toolbar-pane active">
+                            <div class="style-grid">
+                                <button class="style-card active" data-part="border" data-val="square"><i class="icon i-br-square"></i> <span data-i18n="st_sq_border">Square Border</span></button>
+                                <button class="style-card" data-part="border" data-val="dot"><i class="icon i-br-circle"></i> <span data-i18n="st_ci_border">Circle Border</span></button>
+                                <button class="style-card" data-part="border" data-val="dot"><i class="icon i-br-dots"></i> <span data-i18n="st_dt_border">Dots Border</span></button>
+                                <button class="style-card" data-part="border" data-val="extra-rounded"><i class="icon i-br-rounded"></i> <span data-i18n="st_ro_border">Rounded Border</span></button>
+                                <button class="style-card" data-part="border" data-val="extra-rounded"><i class="icon i-br-squircle"></i> <span data-i18n="st_sqr_border">Squircle Border</span></button>
+                                <button class="style-card" data-part="border" data-val="extra-rounded"><i class="icon i-br-cornerflow"></i> <span data-i18n="st_cf_border">Cornerflow Border</span></button>
+                            </div>
+                        </div>
+
+                        <div id="pane-center" class="toolbar-pane">
+                            <div class="style-grid">
+                                <button class="style-card active" data-part="center" data-val="square"><i class="icon i-cn-square"></i> <span data-i18n="st_sq_center">Square Center</span></button>
+                                <button class="style-card" data-part="center" data-val="dot"><i class="icon i-cn-circle"></i> <span data-i18n="st_ci_center">Circle Center</span></button>
+                                <button class="style-card" data-part="center" data-val="dot"><i class="icon i-cn-dots"></i> <span data-i18n="st_dt_center">Dots Center</span></button>
+                                <button class="style-card" data-part="center" data-val="square"><i class="icon i-cn-rounded"></i> <span data-i18n="st_ro_center">Rounded Center</span></button>
+                                <button class="style-card" data-part="center" data-val="square"><i class="icon i-cn-squircle"></i> <span data-i18n="st_sqr_center">Squircle Center</span></button>
+                                <button class="style-card" data-part="center" data-val="square"><i class="icon i-cn-cornerflow"></i> <span data-i18n="st_cf_center">Cornerflow Center</span></button>
+                            </div>
+                        </div>
+
+                        <div id="pane-cells" class="toolbar-pane">
+                            <div class="style-grid">
+                                <button class="style-card active" data-part="cells" data-val="square"><i class="icon i-cl-square"></i> <span data-i18n="st_sq_cells">Square Cells</span></button>
+                                <button class="style-card" data-part="cells" data-val="dots"><i class="icon i-cl-circle"></i> <span data-i18n="st_ci_cells">Circle Cells</span></button>
+                                <button class="style-card" data-part="cells" data-val="rounded"><i class="icon i-cl-rounded"></i> <span data-i18n="st_ro_cells">Rounded Cells</span></button>
+                                <button class="style-card" data-part="cells" data-val="extra-rounded"><i class="icon i-cl-squircle"></i> <span data-i18n="st_sqr_cells">Squircle Cells</span></button>
+                                <button class="style-card" data-part="cells" data-val="classy"><i class="icon i-cl-cornerflow"></i> <span data-i18n="st_cf_cells">Cornerflow Cells</span></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="config-panel">
+                <div class="mode-toggle-group">
+                    <h2 class="section-title" data-i18n="mode_title">Generation Mode</h2>
+                    <div class="mode-toggle">
+                        <label class="mode-label">
+                            <input type="radio" name="gen_mode" value="qr" checked>
+                            <span data-i18n="mode_qr">Link + QR Code</span>
+                        </label>
+                        <label class="mode-label">
+                            <input type="radio" name="gen_mode" value="link">
+                            <span data-i18n="mode_link">Generate Link Only</span>
+                        </label>
+                    </div>
+                </div>
+
+                <h2 class="section-title" data-i18n="content_title">Pick a content type</h2>
+                
+                <div class="tabs" id="type-tabs">
+                    <button class="tab-btn active" data-type="URL">URL</button>
+                    <button class="tab-btn" data-type="Text" data-i18n="tab_text">Text</button>
+                    <button class="tab-btn" data-type="Location" data-i18n="tab_location">Location</button>
+                    <button class="tab-btn" data-type="SMS">SMS</button>
+                    <button class="tab-btn" data-type="Phone" data-i18n="tab_phone">Phone</button>
+                    <button class="tab-btn" data-type="Email">Email</button>
+                </div>
+
+                <div id="dynamic-form" class="form-area"></div>
+
+                <div class="colors-section" id="colors-section">
+                    <div class="colors-header">
+                        <h2 class="section-title" data-i18n="colors_title">Global Colors</h2>
+                    </div>
+                    <div class="color-inputs">
+                        <div class="color-box">
+                            <label data-i18n="lbl_foreground">MAIN FOREGROUND</label>
+                            <div class="input-row">
+                                <input type="text" id="fg-hex" value="#000000">
+                                <input type="color" id="fg-color" value="#000000" class="color-picker-native">
+                            </div>
+                        </div>
+                        <div class="color-box">
+                            <label data-i18n="lbl_background">BACKGROUND</label>
+                            <div class="input-row">
+                                <input type="text" id="bg-hex" value="#FFFFFF">
+                                <input type="color" id="bg-color" value="#ffffff" class="color-picker-native">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="actions">
+                    <button id="download-btn" class="btn btn-secondary hidden" data-i18n="btn_download">Download</button>
+                    <button id="generate-btn" class="btn btn-primary" data-i18n="btn_generate">Get QR Code</button>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <script type="module" src="app.js"></script>
+</body>
+</html>
